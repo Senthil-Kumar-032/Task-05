@@ -1,4 +1,4 @@
-# 1) Given a list of dictionaries, each representing a person with 'name' and 'age' keys,
+# Given a list of dictionaries, each representing a person with 'name' and 'age' keys,
 # use lambda functions to filter out people under 18 and
 # then map the remaining people's names to a new list.
 
