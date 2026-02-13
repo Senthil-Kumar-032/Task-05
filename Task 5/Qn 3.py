@@ -1,5 +1,5 @@
 # Write a list comprehension that creates a new list of squares of even numbers from a given list,
-# using a lambda function to check for even numbers.
+# using a lambda function to check for even numbers
 
 # List of numbers
 nums = [1,2,3,4,5,6,7,8,9,10]

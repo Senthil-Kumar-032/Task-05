@@ -1,5 +1,5 @@
 # Given a list of numbers, use the reduce function and a lambda expression
-# to calculate the product of all the numbers in the list.
+# to calculate the product of all the numbers in the list
 
 # import reduce from functools package
 

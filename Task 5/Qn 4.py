@@ -1,4 +1,4 @@
-# Write a lambda function to check if a given string is a number.
+# Write a lambda function to check if a given string is a number
 
 # Lambda function to check if a string is a number
 is_number = lambda s: s.isdigit()
