@@ -1,4 +1,4 @@
-# Create a lambda function to generate a Fibonacci series up to n terms.
+# Create a lambda function to generate a Fibonacci series up to n terms
 
 # Import reduce from the functools Package
 from functools import reduce
